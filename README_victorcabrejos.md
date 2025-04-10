@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Victor Cabrejos
+# 👋 Hi, I’m Victor Cabrejos Jr.
 
 🎯 **Machine Learning & Generative AI Engineer in Fast Track Mode**  
-I’m an educator, engineer, and AI builder based in Lima, Peru — blending software engineering best practices with fast, monetizable GenAI projects. My mission is to create deployable, teachable, and scalable ML systems that bring real-world value to students, developers, and businesses.
+I’m an educator, engineer, and AI builder based in Philadelphia, PA, USA and currently based in Lima, Peru — blending software engineering best practices with fast, monetizable GenAI projects. My mission is to create deployable, teachable, and scalable ML systems that bring real-world value to students, developers, and businesses.
 
 ---
 
@@ -25,8 +25,11 @@ I’m an educator, engineer, and AI builder based in Lima, Peru — blending sof
 
 ## 🧑‍🏫 Courses & Teaching
 - Instructor for ML, Big Data, NLP & Computer Vision at:
-  - Universidad César Vallejo (UCV)
-  - Universidad Ricardo Palma (URP)
+  - Educate 360 / New Horizons (US remote)
+  - Universidad Nacional Mayor de San Marcos (UNMSM) - Lima
+  - Universidad Ricardo Palma (URP) - Lima
+  - Universidad César Vallejo (UCV) - Lima
+  - Instituto superior tecnológico IDAT - Lima
 - Author of GenAI bootcamp material for OpenAI API training
 - Passionate about helping developers **move from notebooks to production**
 
@@ -48,4 +51,4 @@ I’m an educator, engineer, and AI builder based in Lima, Peru — blending sof
 
 ---
 
-> 💡 “From Lima to Lambda — teaching the world how real AI gets built.”
+> 💡 “From Philly to Lima to Lambda — teaching the world how real AI gets built.”
