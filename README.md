@@ -3,6 +3,14 @@
 🎯 **Machine Learning & Generative AI Engineer in Fast Track Mode**  
 I’m an educator, engineer, and AI builder based in Philadelphia, PA, USA and currently based in Lima, Peru — blending software engineering best practices with fast, monetizable GenAI projects. My mission is to create deployable, teachable, and scalable ML systems that bring real-world value to students, developers, and businesses.
 
+## Cognitive Co-Evolution with AI
+
+I am the author of **Cognitive Co-Evolution with AI (CCEwAI)**, a practical framework for producing useful work with AI while developing human understanding, judgment, and agency.
+
+The public companion repository brings together the framework, conceptual diagrams, chapter practice, cheat sheets, self-checks, and explained answers.
+
+[Explore the framework and reader resources](https://github.com/VictorCabrejos/cognitive-coevolution-with-ai)
+
 ---
 
 ## 🚀 Current Focus (2025)
